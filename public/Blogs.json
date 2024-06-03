@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover_img": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846",
+        "title": "Exploring the Unknown",
+        "author": "Jane Doe",
+        "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+        "posted_date": "2024-05-20",
+        "reading_time": 8,
+        "hashtags": ["exploration", "adventure", "unknown"]
+    },
+    {
+        "id": "2",
+        "cover_img": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
+        "title": "The Art of Coding",
+        "author": "John Smith",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b6",
+        "posted_date": "2024-05-18",
+        "reading_time": 10,
+        "hashtags": ["coding", "programming", "art"]
+    },
+    {
+        "id": "3",
+        "cover_img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Healthy Living Tips",
+        "author": "Alice Johnson",
+        "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
+        "posted_date": "2024-05-22",
+        "reading_time": 5,
+        "hashtags": ["health", "lifestyle", "wellness"]
+    },
+    {
+        "id": "4",
+        "cover_img": "https://images.unsplash.com/photo-1529059997568-3a4caa831d4b",
+        "title": "History's Mysteries",
+        "author": "Michael Brown",
+        "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+        "posted_date": "2024-05-25",
+        "reading_time": 12,
+        "hashtags": ["history", "mystery", "facts"]
+    },
+    {
+        "id": "5",
+        "cover_img": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        "title": "Future of Technology",
+        "author": "Emily White",
+        "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+        "posted_date": "2024-05-28",
+        "reading_time": 7,
+        "hashtags": ["technology", "future", "innovation"]
+    }
+]
