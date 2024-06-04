@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "cover_img": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846",
+        "cover_img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
         "title": "Exploring the Unknown: A Journey into the Mysteries of Our World",
         "author": "Jane Doe",
         "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
@@ -11,7 +11,7 @@
     },
     {
         "id": "2",
-        "cover_img": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
+        "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
         "title": "The Art of Coding: Mastering the Language of the Digital Age",
         "author": "John Smith",
         "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
@@ -21,7 +21,7 @@
     },
     {
         "id": "3",
-        "cover_img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "cover_img": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
         "title": "Healthy Living Tips: Simple Steps to a Better Lifestyle",
         "author": "Alice Johnson",
         "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
@@ -31,7 +31,7 @@
     },
     {
         "id": "4",
-        "cover_img": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+        "cover_img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
         "title": "History's Mysteries: Unraveling the Secrets of the Past",
         "author": "Michael Brown",
         "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",

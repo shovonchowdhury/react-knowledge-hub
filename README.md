@@ -1,8 +1,3 @@
-# React + Vite
+In this a simple web page where a person share his/her thought or knowledge and a person can view those post.There are some feature in this web page like "add to bookmark", "reading time" etc.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I used react.js to build this project
